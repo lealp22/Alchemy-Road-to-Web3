@@ -13,11 +13,11 @@
 
 ### Getting Started
 
-You can try a demo on Repli:
+You can try a demo on Replit:
 
 [https://buymeacoffee-solidity-defi-tipping-app.jesman22.repl.co/](https://buymeacoffee-solidity-defi-tipping-app.jesman22.repl.co/)
 
-To run this website on your computer (local):
+Or run this website on your computer (local):
 
 Go to directory `./packages/website`
 
