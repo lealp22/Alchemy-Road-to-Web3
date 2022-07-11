@@ -13,6 +13,12 @@
 
 ### Getting Started
 
+You can try a demo on Repli:
+
+[https://buymeacoffee-solidity-defi-tipping-app.jesman22.repl.co/](https://buymeacoffee-solidity-defi-tipping-app.jesman22.repl.co/)
+
+To run this website on your computer (local):
+
 Go to directory `./packages/website`
 
 `npm install` to install dependencies
@@ -24,4 +30,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
